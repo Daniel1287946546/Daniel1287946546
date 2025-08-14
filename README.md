@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Segura</h1>
 <h3 align="center">A passionate frontend developer from Colombia, I am a very dedicated person, obsessed with improving and always being the best. I love software development and try to learn something new every day.</h3>
 
+- ⚡ Fun fact **I miss my exs**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/santiagosegura8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santiagosegura8" height="30" width="40" /></a>
