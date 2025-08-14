@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Segura</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
-
-- ⚡ Fun fact **I am a very dedicated person, obsessed with improving and always being the best. I love software development and try to learn something new every day.**
+<h3 align="center">A passionate frontend developer from Colombia, I am a very dedicated person, obsessed with improving and always being the best. I love software development and try to learn something new every day.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
