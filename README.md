@@ -1,12 +1,27 @@
-<h1 align="center">Hi 👋, I'm Daniel Segura</h1>
-<h3 align="center">A passionate frontend developer from Colombia, I am a very dedicated person, obsessed with improving and always being the best. I love software development and try to learn something new every day.</h3>
+# Hello, I'm Daniel Segura! 👋
 
+🎓 **Engineering student** from Colombia  
+💻 Passionate about **software development**, **technology**, and **continuous learning**  
+📚 Currently improving my **English (B2)** and **French (B1)** and strengthening my skills in **OOP, JavaScript, HTML, C++, and Git**  
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/santiagosegura8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santiagosegura8" height="30" width="40" /></a>
-</p>
+## 🌟 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🎯 My goal:To grow as a versatile and problem-solving developer..  
+- 📘 I enjoy learning through practical examples and then diving deeper into theory.  
+- 🚀 My way of learning is based on constant practice, with the goal of improving every day.  
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript, C++, HTML, CSS, Python  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📬 How to reach me
+
+- **Email:** dasegura629@gmail.com  
+- **Instagram:** [@daniel_segura](https://instagram.com/daniel_segura)  
